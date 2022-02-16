@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+#please-wallet{
+  margin: 22% 30%;
+  margin-left: 35vw;
+  margin-top: 0;
+  opacity: 50%;
+}
+
+.GiWallet-icon{
+  /* margin: 22% 30%; */
+  margin-left: 38vw;
+  font-size: 20vw;
+  margin-top: 10vw;
+  opacity: 25%;
+}
