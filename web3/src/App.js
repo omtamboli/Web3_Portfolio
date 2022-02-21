@@ -10,21 +10,10 @@ function App() {
   return (
       
 <>
-  
      <Header/>
      <Wallet/>
 
-        
-
 </>
-    
-
-            
-    
-    
-
-
-
   );
 }
 
